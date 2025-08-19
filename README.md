@@ -1,1 +1,1 @@
-# Stock-Price-Forecasting-using-LSTM-GOOGL-AAPL-MSFT
+# Stock-Price-Forecasting-using-LSTM-GOOGL-AAPL-MSFT 🚀🔥
