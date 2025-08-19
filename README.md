@@ -124,3 +124,13 @@ README (overview + Colab badge)
 
 DESCRIPTION.md (detailed explanation)
 
+# 📊 Dataset
+This project uses the **World Stock Prices Dataset (Daily Updating)** from [](https://www.kaggle.com/datasets/cavinlobo/world-stock-prices-daily-updating/data)
+
+- Dataset: [World Stock Prices (Daily Updating)](https://www.kaggle.com/datasets/cavinlobo/world-stock-prices-daily-updating/data)  
+- Features: Date, Open, High, Low, Close, Volume, Adjusted Close  
+- Target variable: **Closing Price**  
+
+⚡ The dataset updates daily, so the model can be retrained anytime with the most recent market data.
+
+
