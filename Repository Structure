@@ -1,0 +1,8 @@
+stock-price-forecasting/
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+├─ notebook/
+│   └─ stock_price_forecasting.ipynb
+└─ docs/
+   └─ DESCRIPTION.md
